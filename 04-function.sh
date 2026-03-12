@@ -12,3 +12,18 @@ demo_check() {
 }
 
 
+check() {
+  echo x=$x
+}
+
+x=10
+check
+
+x=20
+check
+
+x=30
+check
+
+
+
