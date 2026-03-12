@@ -13,4 +13,6 @@ else
   echo cmd failure
 fi
 
+echo hello world
+
 
