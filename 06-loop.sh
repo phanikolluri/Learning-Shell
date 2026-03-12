@@ -6,8 +6,11 @@ done
 
 
 
-b=10
-while [ $b -ge 0 ]; do
-  echo value=$b
-  b=$((b-1))
-done
+a=9
+if [ $a -ge 0 ]; then
+  echo value a=$a
+else
+  echo cmd failure
+fi
+
+
