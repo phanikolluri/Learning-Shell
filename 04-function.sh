@@ -7,10 +7,10 @@ sample
 
 demo_check() {
   b = 10
-  a = $a
+  echo a = $a
 }
 demo_check
 
 a = 100
-b = $b
+echo b = $b
 
