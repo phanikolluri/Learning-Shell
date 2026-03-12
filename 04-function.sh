@@ -12,5 +12,6 @@ demo_check() {
 demo_check
 
 a=100
+
 echo b=$b
 
