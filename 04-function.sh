@@ -10,7 +10,5 @@ demo_check() {
   b=10
   echo a=$a
 }
-demo_check
 
-echo b=$b
 
