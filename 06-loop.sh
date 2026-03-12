@@ -6,7 +6,7 @@ done
 
 
 
-a=9
+a=-1
 if [ $a -ge 0 ]; then
   echo value a=$a
 else
